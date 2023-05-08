@@ -2,11 +2,11 @@
 Contains python implementation of AntColonyOptimization
 
 A------B<br/>
-|     /|<br/>
-|    / |<br/>
-|   /  |<br/>
-|  /   |<br/>
-|/     |<br/>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;    /&nbsp;|<br/>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  /&nbsp;&nbsp; |<br/>
+|&nbsp;&nbsp;&nbsp;   &nbsp;/&nbsp;&nbsp;&nbsp; |<br/>
+|&nbsp;&nbsp; /&nbsp;&nbsp;&nbsp; &nbsp; |<br/>
+|&nbsp;/ &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;  |<br/>
 D------C<br/>
 ![image](https://user-images.githubusercontent.com/128241982/236895308-63faea1f-32dc-4603-86e6-45eed4a7e39c.png)
 
